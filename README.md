@@ -10,6 +10,8 @@ Data: 21/12/22<br>
 Avui en dia hi ha molts casos **d'hibridació**, la tecnologia està cambiant constantment i cada cop s'estan utilitzant  molt més tecnologies que ens faciliten realitzar igualment alló que ja feiem de forma presencial. 
 Actualment es poden crear sistemes d'aprenentatge on es pot allotjar continguts de formació que simulen un aula i també  existeixen plataformes en línia per realitzar formacións de curta durada.
 #### Cas 1: Moodle
+És un sistema d'aprenentatge en línea (LMS), gratuït i de codi obert. Realment és un software instal.lat a un servidor web que s'utilitza per administrar, distribuir i controlar les activitats de formació no presencial.<br>
+La primera versió es va realitzar el 20 d'agost de 2002 i s'han realitzat altres posteriors fins a la més recent la 4.0.<br>
 
 
 
