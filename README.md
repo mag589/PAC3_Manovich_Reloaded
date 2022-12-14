@@ -1,4 +1,4 @@
-# PAC3_Manovich_Reloaded
+#Plataformes eLearning: Moodle i Udemy -  Descobrint dos casos d'hibridació moderna
 Recurso de aprendizaje de Cultura Digital
 Autor:
 
