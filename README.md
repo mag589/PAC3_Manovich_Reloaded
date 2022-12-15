@@ -18,6 +18,7 @@ La primera versió es va realitzar el 20 d'agost de 2002 i s'han realitzat altre
 1. Gestión de contenidos: se muentran los contenidos de forma ordenada y coherente. Se puede incluir texto, imágenes, vídeos o gráficos. Los usuarios pueden compartir información y publicarla.
 2. Comunicación: permite enviar mensajes a través de foros, eso favorece el intercambio comunicativo de forma activa y directa. Además permite que el aprendizaje sea cooperativo y convierte el espacio en una experiencia social y académica.
 3. Evaluación: la plataforma facilita que exista feedback inmediato en la realización de la actividades o pruebas.
+
  ***Ventajas de utilizar Moodle*** 
 - Posibilidad de trabajar en grupo.
 - Facilidad de compartir recursos o materiales.
