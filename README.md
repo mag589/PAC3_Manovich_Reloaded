@@ -61,7 +61,7 @@ Udemy permite descargar la aplicación en el smartphone, tanto en Apple como en 
 ***Como son los cursos***
 
 Los cursos pueden ser de pago o gratuitos. Aunque Udemy no es una institución acreditada, ofrece cursos basados en habilidades impartidas por expertos en su campo de especialización. 
-Con los cursos de pago aprobados se ofrece un **Certificado de finalización** que acredita que lo has cursado, pero estos certificados no tienen validez legal. Por otra parte, los cursos gratuitos no ofrecen un certificado de finalización.
+Con los cursos de pago aprobados se ofrece un **Certificado de finalización** que acredita que lo has cursado, pero estos certificados no tienen validez legal. Por otra parte, los cursos gratuitos no ofrecen un certificado de finalizacións
 Además, con los cursos de pago puedes ponerte en contacto con el instructor del curso para resolver dudas, pero en los cursos gratuitos no se permite.
 
 Referencias y Bibliografia
