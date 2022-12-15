@@ -25,6 +25,7 @@ La primera versió es va realitzar el 20 d'agost de 2002 i s'han realitzat altre
 - Colaboración entre profesores para diseñar los cursos.
 - Disposición permanente de los contenidos.
 - Facilita la comunicación.
+<br>
 ***Que se puede hacer con Moodle***
 -Elaboración cursos semipresenciales.
 -Elaboración de cursos en línia (100%).
