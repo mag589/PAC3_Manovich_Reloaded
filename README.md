@@ -41,6 +41,7 @@ La primera versió es va realitzar el 20 d'agost de 2002 i s'han realitzat altre
 - Elaborar un espacio colaborativo (comunicación sin límites de forma cooperativa y colaborativa).<br>
 
 ***Conclusión***
+
 En definitiva, es un punto de encuentro tanto para profesores y alumnos, donde todos pueden estar intercomunicados en todo momento. Pueden participar en cualquier hora o dia de la semana. 
 La educación en Moodle, es bastante similar a la presencial o semipresencial, ya que hay gran interacción positiva entre los usuarios. Existen otras plataformas, pero Moodle es el estándar grácias a su enfoque **Open Source.**
 
