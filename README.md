@@ -14,6 +14,12 @@ Es un sistema de aprendizaje en línea (LMS), gratuito y de código abierto. Rea
 La primera versió es va realitzar el 20 d'agost de 2002 i s'han realitzat altres posteriors fins a la més recent la 4.0.<br>
 Éste sistema ha sido diseñado en base a las ideas pedagógicas del Constructivismo, mediante entornos de aprendizaje colaborativo. Se recomienda tanto para el aprendizaje 100% en línea o como complemento para el aprendizaje presencial.<br>
 
+ ***Usos de Moodle en el sistema educativo*** 
+1. Gestión de contenidos: se muentran los contenidos de forma ordenada y coherente. Se puede incluir texto, imágenes, vídeos o gráficos. Los usuarios pueden compartir información y publicarla.
+2. Comunicación: permite enviar mensajes a través de foros, eso favorece el intercambio comunicativo de forma activa y directa. Además permite que el aprendizaje sea cooperativo y convierte el espacio en una experiencia social y académica.
+3. Evaluación: la plataforma facilita que exista feedback inmediato en la realización de la actividades o pruebas.
+
+
 
 
 Referencias y Bibliografia
