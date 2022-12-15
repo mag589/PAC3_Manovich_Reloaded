@@ -26,12 +26,19 @@ La primera versió es va realitzar el 20 d'agost de 2002 i s'han realitzat altre
 - Disposición permanente de los contenidos.
 - Facilita la comunicación.<br>
 
-***Que se puede hacer con Moodle***
--Elaboración cursos semipresenciales.
--Elaboración de cursos en línia (100%).
--Elaborar cursos complementarios para la formación presencial (se publica el material adicional para complementar con los recursos facilitados en la sesión presencial).
--Elaborar aulas tutoriales (el docente responde las preguntas del alumno).
--Elaborar un espacio colaborativo (comunicación sin límites de forma cooperativa y colaborativa).<br>
+***Usos de Moodle en el sistema educativo*** 
+- Posibilidad de trabajar en grupo.
+- Facilidad de compartir recursos o materiales.
+- Colaboración entre profesores para diseñar los cursos.
+- Disposición permanente de los contenidos.
+- Facilita la comunicación.<br>
+
+***Que se puede hacer con Moodle*** 
+- Elaboración cursos semipresenciales.
+- Elaboración de cursos en línia (100%).
+- Elaborar cursos complementarios para la formación presencial (se publica el material adicional para complementar con los recursos facilitados en la sesión presencial).
+- Elaborar aulas tutoriales (el docente responde las preguntas del alumno).
+- Elaborar un espacio colaborativo (comunicación sin límites de forma cooperativa y colaborativa).<br>
 
 ***Conclusión***
 En definitiva, es un punto de encuentro tanto para profesores y alumnos, donde todos pueden estar intercomunicados en todo momento. Pueden participar en cualquier hora o dia de la semana. 
