@@ -45,6 +45,24 @@ La primera versió es va realitzar el 20 d'agost de 2002 i s'han realitzat altre
 En definitiva, es un punto de encuentro tanto para profesores y alumnos, donde todos pueden estar intercomunicados en todo momento. Pueden participar en cualquier hora o dia de la semana. 
 La educación en Moodle, es bastante similar a la presencial o semipresencial, ya que hay gran interacción positiva entre los usuarios. Existen otras plataformas, pero Moodle es el estándar grácias a su enfoque **Open Source.**
 
+#### Caso 2: Udemy
+Es una plataforma que permite crear cursos en línea. La persona creadora se le permite subir vídeos, diapositivas, PDF, audio, archivos ZIP, ... Además de agregar otro tipo de recursos y actividades prácticas, para mejorar la experiéncia de aprendizaje de los estudiantes.  Los instructores del curso pueden interactuar con los usuarios a través de foros dentro de la plataforma.
+Dentro de éste modelo hay diferentes categorías de cursos, por ejemplo:
+- Negocios
+-  Desarrollo personal
+- Diseño
+-  Salud y fitness
+- Música,
+-  Marketing 
+- Tecnología, ...<br>
+
+Udemy permite descargar la aplicación en el smartphone, tanto en Apple como en Android. Aproximadamente un 20% de sus usuarios acceden a sus cursos en línea a través de dispositivos móviles.<br>
+
+***Como son los cursos***
+
+Los cursos pueden ser de pago o gratuitos. Aunque Udemy no es una institución acreditada, ofrece cursos basados en habilidades impartidas por expertos en su campo de especialización. 
+Con los cursos de pago aprobados se ofrece un **Certificado de finalización** que acredita que lo has cursado, pero estos certificados no tienen validez legal. Por otra parte, los cursos gratuitos no ofrecen un certificado de finalización.
+Además, con los cursos de pago puedes ponerte en contacto con el instructor del curso para resolver dudas, pero en los cursos gratuitos no se permite.
 
 Referencias y Bibliografia
 Manovich, Lev. (2013). El software toma el mando . Barcelona: Editorial UOC.
