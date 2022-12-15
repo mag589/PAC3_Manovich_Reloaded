@@ -12,6 +12,9 @@ Por ejemplo, actualmente se pueden crear sistemas de aprendizaje, donde alojar c
 #### Cas 1: Moodle
 Es un sistema de aprendizaje en línea (LMS), gratuito y de código abierto. Realmente es un software instalado en un servidor web que se utiliza para administrar, distribuir y controlar las actividades de formación no presencial.
 La primera versió es va realitzar el 20 d'agost de 2002 i s'han realitzat altres posteriors fins a la més recent la 4.0.<br>
+Éste sistema ha sido diseñado en base a las ideas pedagógicas del Constructivismo, mediante entornos de aprendizaje colaborativo. Se recomienda tanto para el aprendizaje 100% en línea o como complemento para el aprendizaje presencial.<br>
+
+
 
 Referencias y Bibliografia
 Manovich, Lev. (2013). El software toma el mando . Barcelona: Editorial UOC.
