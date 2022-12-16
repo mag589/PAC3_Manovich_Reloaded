@@ -1,4 +1,4 @@
-# Plataformas eLearning: Moodle y Udemy 
+# Plataformas e-learning: Moodle y Udemy 
 ## Descubriendo dos casos de hibridación moderna 
 Cultura Digital<br>
 Autor: Montse Ardevol Galcera<br>
