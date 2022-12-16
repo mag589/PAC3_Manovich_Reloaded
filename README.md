@@ -57,6 +57,9 @@ La educación en Moodle, es bastante similar a la presencial o semipresencial, y
 
 #### Caso 2: Udemy
 Es una plataforma que permite crear cursos en línea. La persona creadora se le permite subir vídeos, diapositivas, PDF, audio, archivos ZIP, ... Además de agregar otro tipo de recursos y actividades prácticas, para mejorar la experiéncia de aprendizaje de los estudiantes.  Los instructores del curso pueden interactuar con los usuarios a través de foros dentro de la plataforma.
+
+<img src="https://iblnews.org/wp-content/uploads/2020/02/udemy.jpg" alt="Vista pantalla Udemy" width="600px"><br>
+
 Dentro de éste modelo hay diferentes categorías de cursos, por ejemplo:
 - Negocios
 -  Desarrollo personal
