@@ -86,4 +86,5 @@ En esta plataforma vas a encontrar todo tipo de cursos, desde  hobbies hasta par
 <https://support.udemy.com/hc/es/articles/229232187-Preguntas-frecuentes-sobre-el-aprendizaje-con-Udemy><br>
 <https://www.websiteplanet.com/es/blog/analisis-de-udemy-por-que-deberias-estudiar-alternativas/><br>
 <https://unsplash.com/es/fotos/-2vD8lIhdnw><br>
-<https://iblnews.org/udemy-claims-a-valuation-of-2b-billion-and-announces-5000-corporate-clients-on-its-business-division/>
+<https://iblnews.org/udemy-claims-a-valuation-of-2b-billion-and-announces-5000-corporate-clients-on-its-business-division/><br>
+<https://cursus.edu/storage/thumbnails/Z5XzRUdaEIAWuEMgBVJaB9f4R9aWXlDWbDX4xJ96.jpeg>
