@@ -76,8 +76,9 @@ En esta plataforma vas a encontrar todo tipo de cursos, desde  hobbies hasta par
 
 ### Webgrafía
 
-<https://es.wikipedia.org/wiki/Moodle>
-<https://docs.moodle.org/401/en/About_Moodle]
-[https://aulasmoodle.com/moodle/que-es-moodle/>
-<https://support.udemy.com/hc/es/articles/229232187-Preguntas-frecuentes-sobre-el-aprendizaje-con-Udemy>
-<https://www.websiteplanet.com/es/blog/analisis-de-udemy-por-que-deberias-estudiar-alternativas/>
+<https://es.wikipedia.org/wiki/Moodle><br>
+<https://docs.moodle.org/401/en/About_Moodle><br>
+<https://aulasmoodle.com/moodle/que-es-moodle/><br>
+<https://support.udemy.com/hc/es/articles/229232187-Preguntas-frecuentes-sobre-el-aprendizaje-con-Udemy><br>
+<https://www.websiteplanet.com/es/blog/analisis-de-udemy-por-que-deberias-estudiar-alternativas/><br>
+<https://unsplash.com/es/fotos/-2vD8lIhdnw>
