@@ -6,6 +6,12 @@ Fecha: 21/12/22<br>
 
 <img src="https://images.unsplash.com/photo-1516534775068-ba3e7458af70?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80" alt="Chica estudianto online" width="300px">
 
+### Índice
+1. Introducción
+2. Caso 1: Moodle
+3. Caso 2: Udemy
+4. Webgrafía<br>
+
 ### Introducción
 A dia de hoy existen muchos casos **d'hibridación**, la tecnologia esta cambiando constantmente y cada vez más se utilizan éstas para facilitarnos lo que ya hacíamos de forma presencial.
 Por ejemplo, actualmente se pueden crear sistemas de aprendizaje, donde alojar contenidos de formación que simulen un aula y también dispones plataformes en línia para realitzar formaciones de corta duración o para mejorar tus habilidades.
