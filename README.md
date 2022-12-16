@@ -77,6 +77,7 @@ En esta plataforma vas a encontrar todo tipo de cursos, desde  hobbies hasta par
 ### Webgrafía
 
 <https://es.wikipedia.org/wiki/Moodle>
-
-Referencias y Bibliografia
-Manovich, Lev. (2013). El software toma el mando . Barcelona: Editorial UOC.
+<https://docs.moodle.org/401/en/About_Moodle]
+[https://aulasmoodle.com/moodle/que-es-moodle/>
+<https://support.udemy.com/hc/es/articles/229232187-Preguntas-frecuentes-sobre-el-aprendizaje-con-Udemy>
+<https://www.websiteplanet.com/es/blog/analisis-de-udemy-por-que-deberias-estudiar-alternativas/>
